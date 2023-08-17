@@ -1,4 +1,6 @@
 def main():
+    print('Hello World')
+    print('CS V11: Programming Fundamentals')
 
     ##############################
     # make your code below
